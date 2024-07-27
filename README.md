@@ -3,6 +3,5 @@ Simple text editor similar to ed.
 Written in Rust.
 
 
-# LICENCE
-
+LICENCE:
 The Unlicense with no AI / ML

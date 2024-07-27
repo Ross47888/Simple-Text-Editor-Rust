@@ -1,3 +1,7 @@
+use clap::Parser;
+use text_editor::*;
+
 fn main() {
-    println!("Hello, world!");
+    let args = Cli::parse();
+    println!("{:?}", args.path);
 }
